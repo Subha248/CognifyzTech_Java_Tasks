@@ -1,0 +1,57 @@
+TASK 1: Temperature Converter
+Example 1:
+Enter the temperature:
+25
+Enter the unit of temperature (C/F):
+C
+25.0°C = 77.0°F
+
+Example 2:
+Enter the temperature:
+98
+Enter the unit of temperature (C/F):
+F
+98.0°F = 36.666666666666664°C
+
+Invalid input example:
+Enter the temperature:
+40
+Enter the unit of temperature (C/F):
+K
+Invalid Input! Please enter C or F.
+
+
+TASK 2: Palindrome Checker
+Example 1:
+Enter a string:
+Madam
+IT IS A PALINDROME
+
+Example 2:
+Enter a string:
+Hello
+IT IS NOT A PALINDROME
+
+
+TASK 3: Average Grade Calculator
+Example:
+Enter the number of subjects:
+3
+Enter the grade 1:
+80
+Enter the grade 2:
+90
+Enter the grade 3:
+85
+THE AVERAGE SCORE IS :85.0
+
+
+TASK 4: Password Generator
+Example:
+Enter the desired length: 8
+Include uppercase letters?(true/false): true
+Include lowercase letters?(true/false): true
+Include special characters?(true/false): true
+Include numbers?(true/false): true
+Your generated password is: kG$9t!Q1
+(Note: The password will be different each time you run the program.)

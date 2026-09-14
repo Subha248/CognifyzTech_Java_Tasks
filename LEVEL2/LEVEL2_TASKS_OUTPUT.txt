@@ -1,0 +1,136 @@
+TASK 1: Tic Tac Toe Game (LEVEL2/TASK1.java)
+
+-------
+| | | |
+-------
+| | | |
+-------
+| | | |
+-------
+Enter your move X(row and col):
+0 0
+-------
+|X| | |
+-------
+| | | |
+-------
+| | | |
+-------
+Enter your move O(row and col):
+0 1
+-------
+|X|O| |
+-------
+| | | |
+-------
+| | | |
+-------
+Enter your move X(row and col):
+1 1
+-------
+|X|O| |
+-------
+| |X| |
+-------
+| | | |
+-------
+Enter your move O(row and col):
+0 2
+-------
+|X|O|O|
+-------
+| |X| |
+-------
+| | | |
+-------
+Enter your move X(row and col):
+2 2
+-------
+|X|O|O|
+-------
+| |X| |
+-------
+| | |X|
+-------
+playerX wins!
+
+If no one wins:
+It's a draw!
+
+------------------------------------------------------------
+
+TASK 2: Password Strength Checker (LEVEL2/TASK2.java)
+
+Example 1:
+Enter your password:
+Hello123
+Your password strength is:Medium
+Suggestions for your password:
+For a high strength password, use up to 12 characters
+Please include special characters
+
+Example 2:
+Enter your password:
+StrongPass@2025
+Your password strength is:Very Strong
+Suggestions for your password:
+Your password is very strong! Great job 
+
+Example 3:
+Enter your password:
+abc
+Your password strength is:Weak
+Suggestions for your password:
+Please enter password minimum  8 characters
+For a high strength password, use up to 12 characters
+Please include uppercase letters
+Please include special characters
+Please include digits
+
+------------------------------------------------------------
+
+TASK 3: File Encryption/Decryption (LEVEL2/TASK3.java)
+
+Example 1 – Encryption:
+File Encryption/Decryption tool
+1. Encryption
+2. Decryption
+Enter your choice (1 or 2) for Encryption/Decrytion:
+1
+Enter your input file path:
+input.txt
+Enter yout text output file path:
+encrypted.txt
+Enter desired key:
+5
+File is Encrypted Successfully!
+
+Example 2 – Decryption:
+File Encryption/Decryption tool
+1. Encryption
+2. Decryption
+Enter your choice (1 or 2) for Encryption/Decrytion:
+2
+Enter your input file path:
+encrypted.txt
+Enter yout text output file path:
+decrypted.txt
+Enter desired key:
+5
+File is Decrypted Successfully!
+
+Example 3 – Invalid choice:
+File Encryption/Decryption tool
+1. Encryption
+2. Decryption
+Enter your choice (1 or 2) for Encryption/Decrytion:
+3
+Enter your input file path:
+input.txt
+Enter yout text output file path:
+output.txt
+Enter desired key:
+5
+Invalid number! Please enter choice 1 or 2
+
+
